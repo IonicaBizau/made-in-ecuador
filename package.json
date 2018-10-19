@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -340,6 +341,57 @@
               "2",
               "[@rowanseymour](https://github.com/rowanseymour)/[**kubara**](https://github.com/rowanseymour/kubara)",
               "Library for rendering numbers as text in their spoken forms",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "84",
+              "[@georgejecook](https://github.com/georgejecook)/[**UnityTimelineEvents**](https://github.com/georgejecook/UnityTimelineEvents)",
+              "Adds ability to execute arbitrary code, with int, bool, float, string and enum values, at both runtime and edit time, from Unity timelines.",
+              ""
+            ],
+            [
+              "39",
+              "[@georgejecook](https://github.com/georgejecook)/[**xamarinFastCell**](https://github.com/georgejecook/xamarinFastCell)",
+              "fast view cell implementation for iOS that's really performance friendly, yet allows you to write cells in xaml.",
+              ""
+            ],
+            [
+              "12",
+              "[@ennerperez](https://github.com/ennerperez)/[**RibbonLib**](https://github.com/ennerperez/RibbonLib)",
+              "Windows Ribbon for WinForms",
+              ""
+            ],
+            [
+              "4",
+              "[@ennerperez](https://github.com/ennerperez)/[**msbuild-confuserex**](https://github.com/ennerperez/msbuild-confuserex)",
+              "MSBuild ConfuserEx Target",
+              ""
+            ],
+            [
+              "3",
+              "[@ennerperez](https://github.com/ennerperez)/[**pictograms**](https://github.com/ennerperez/pictograms)",
+              "Fonts based pictograms for .NET",
+              ""
+            ],
+            [
+              "2",
+              "[@ennerperez](https://github.com/ennerperez)/[**image-toolkit**](https://github.com/ennerperez/image-toolkit)",
+              "Image Toolkit",
               ""
             ]
           ]
