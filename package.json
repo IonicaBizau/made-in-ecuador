@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -448,6 +449,27 @@
               "2",
               "[@Alejoss](https://github.com/Alejoss)/[**redlibros**](https://github.com/Alejoss/redlibros)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@mdleiton](https://github.com/mdleiton)/[**ArqClienteServidorWe…**](https://github.com/mdleiton/ArqClienteServidorWeb)",
+              "Este programa permite monitorear los puertos USB de nuestra computadora, detectar la conexión de nuevos dispositivos USB a traves de un proceso(daemon).  Un servidor web solicitará dicha información a este proceso para responder a las solicitudes realizadas por un cliente (escrito en python).",
               ""
             ]
           ]
