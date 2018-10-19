@@ -57,7 +57,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -784,6 +785,27 @@
               "2",
               "[@stsewd](https://github.com/stsewd)/[**deoplete-plugin**](https://github.com/stsewd/deoplete-plugin)",
               "Deoplete source for plugins",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@sourcestatlab](https://github.com/sourcestatlab)/[**R-demos**](https://github.com/sourcestatlab/R-demos)",
+              "Posibles Aplicaciones del Lenguaje R. Demos",
               ""
             ]
           ]
