@@ -53,7 +53,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -528,6 +529,27 @@
               "2",
               "[@sebashack](https://github.com/sebashack)/[**JuicyPixelsAndPersis…**](https://github.com/sebashack/JuicyPixelsAndPersistent)",
               "And example of using The Servant API framework along with JuicyPixels and Persistent",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@danielriofrio](https://github.com/danielriofrio)/[**AntColonyOptimizatio…**](https://github.com/danielriofrio/AntColonyOptimization)",
+              "A simple ACO implementation for TSP. MATLAB code.",
               ""
             ]
           ]
