@@ -58,7 +58,8 @@
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -806,6 +807,87 @@
               "2",
               "[@sourcestatlab](https://github.com/sourcestatlab)/[**R-demos**](https://github.com/sourcestatlab/R-demos)",
               "Posibles Aplicaciones del Lenguaje R. Demos",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "203",
+              "[@olabini](https://github.com/olabini)/[**paipr**](https://github.com/olabini/paipr)",
+              "Paradigms of Artificial Intelligence Programming (in Ruby)",
+              "[:arrow_upper_right:](http://olabini.com/paipr)"
+            ],
+            [
+              "69",
+              "[@invisiblellama](https://github.com/invisiblellama)/[**repub**](https://github.com/invisiblellama/repub)",
+              "Simple HTML to ePub converter.",
+              "[:arrow_upper_right:](http://rubyforge.org/projects/repub/)"
+            ],
+            [
+              "50",
+              "[@olabini](https://github.com/olabini)/[**bumble**](https://github.com/olabini/bumble)",
+              "A small data wrapper for Google DataStore - intended for use with Google App Engine",
+              ""
+            ],
+            [
+              "44",
+              "[@olabini](https://github.com/olabini)/[**yarbl**](https://github.com/olabini/yarbl)",
+              "Yet Another Ruby Blog - For Google App Engine",
+              ""
+            ],
+            [
+              "33",
+              "[@olabini](https://github.com/olabini)/[**beeu**](https://github.com/olabini/beeu)",
+              "A small wrapper for Google User Service - Intended for use with Google App Engine",
+              ""
+            ],
+            [
+              "21",
+              "[@olabini](https://github.com/olabini)/[**ribs**](https://github.com/olabini/ribs)",
+              "Ribs is a Ruby DAO/ORM framework built on top of Hibernate, running on JRuby.",
+              ""
+            ],
+            [
+              "15",
+              "[@olabini](https://github.com/olabini)/[**xample**](https://github.com/olabini/xample)",
+              "Xample is Xample-Text and Xample-Code which will both be DSLs for creating DSLs",
+              ""
+            ],
+            [
+              "11",
+              "[@olabini](https://github.com/olabini)/[**jtestr**](https://github.com/olabini/jtestr)",
+              "The new official repository for JtestR",
+              "[:arrow_upper_right:](http://jtestr.codehaus.org)"
+            ],
+            [
+              "3",
+              "[@joselo](https://github.com/joselo)/[**cesri**](https://github.com/joselo/cesri)",
+              "Cesri es una Gema Ruby que permite consumir los servicios Web de Comprobantes Electrónicos del Servicio de Rentas Internas, para fines de la facturación electrónica en Ecuador.",
+              ""
+            ],
+            [
+              "2",
+              "[@macool](https://github.com/macool)/[**id_ecuador**](https://github.com/macool/id_ecuador)",
+              "gema para validar cédula o RUC de Ecuador",
+              ""
+            ],
+            [
+              "2",
+              "[@invisiblellama](https://github.com/invisiblellama)/[**has_settings**](https://github.com/invisiblellama/has_settings)",
+              "Rails plugin that allows attaching arbitrary set of settings to a model, with inheritance.",
               ""
             ]
           ]
