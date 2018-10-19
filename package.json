@@ -59,7 +59,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -888,6 +889,201 @@
               "2",
               "[@invisiblellama](https://github.com/invisiblellama)/[**has_settings**](https://github.com/invisiblellama/has_settings)",
               "Rails plugin that allows attaching arbitrary set of settings to a model, with inheritance.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1293",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Binding.scala**](https://github.com/ThoughtWorksInc/Binding.scala)",
+              "Reactive data-binding for Scala",
+              ""
+            ],
+            [
+              "633",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**DeepLearning.scala**](https://github.com/ThoughtWorksInc/DeepLearning.scala)",
+              "A simple library for creating complex neural networks",
+              "[:arrow_upper_right:](http://deeplearning.thoughtworks.school/)"
+            ],
+            [
+              "209",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**each**](https://github.com/ThoughtWorksInc/each)",
+              "A macro library that converts native imperative syntax to scalaz's monadic expressions",
+              ""
+            ],
+            [
+              "142",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Compute.scala**](https://github.com/ThoughtWorksInc/Compute.scala)",
+              "Scientific computing with N-dimensional arrays",
+              ""
+            ],
+            [
+              "88",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Dsl.scala**](https://github.com/ThoughtWorksInc/Dsl.scala)",
+              "A framework to create embedded Domain-Specific Languages in Scala",
+              ""
+            ],
+            [
+              "59",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**sbt-api-mappings**](https://github.com/ThoughtWorksInc/sbt-api-mappings)",
+              "An Sbt plugin that fills apiMappings for common Scala libraries.",
+              ""
+            ],
+            [
+              "54",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**todo**](https://github.com/ThoughtWorksInc/todo)",
+              "Binding.scala • TodoMVC",
+              "[:arrow_upper_right:](http://todomvc.com/examples/binding-scala/)"
+            ],
+            [
+              "46",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**enableIf.scala**](https://github.com/ThoughtWorksInc/enableIf.scala)",
+              "A library that toggles Scala code at compile-time, like #if in C/C++",
+              ""
+            ],
+            [
+              "37",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**template.scala**](https://github.com/ThoughtWorksInc/template.scala)",
+              "C++ Flavored Template Metaprogramming in Scala",
+              ""
+            ],
+            [
+              "28",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**RAII.scala**](https://github.com/ThoughtWorksInc/RAII.scala)",
+              "Resource Acquisition Is Initialization",
+              ""
+            ],
+            [
+              "27",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**future.scala**](https://github.com/ThoughtWorksInc/future.scala)",
+              "Stack-safe asynchronous programming",
+              ""
+            ],
+            [
+              "26",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**sbt-best-practice**](https://github.com/ThoughtWorksInc/sbt-best-practice)",
+              "Configure common build settings for a Scala project",
+              ""
+            ],
+            [
+              "24",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Import.scala**](https://github.com/ThoughtWorksInc/Import.scala)",
+              "A Scala compiler plugin for magic imports",
+              ""
+            ],
+            [
+              "23",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**feature.scala**](https://github.com/ThoughtWorksInc/feature.scala)",
+              "Access Scala language features on the type-level",
+              "[:arrow_upper_right:](https://javadoc.io/page/com.thoughtworks.feature/factory_2.12/latest/com/thoughtworks/feature/index.html)"
+            ],
+            [
+              "23",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**implicit-dependent-t…**](https://github.com/ThoughtWorksInc/implicit-dependent-type)",
+              "",
+              ""
+            ],
+            [
+              "19",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**sbt-scala-js-map**](https://github.com/ThoughtWorksInc/sbt-scala-js-map)",
+              "A Sbt plugin that configures source mapping for Scala.js projects hosted on Github",
+              ""
+            ],
+            [
+              "18",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**sbt-example**](https://github.com/ThoughtWorksInc/sbt-example)",
+              "Run Scaladoc as unit tests",
+              ""
+            ],
+            [
+              "17",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Extractor.scala**](https://github.com/ThoughtWorksInc/Extractor.scala)",
+              "Make PartialFunction and extractors composable",
+              ""
+            ],
+            [
+              "13",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**tryt.scala**](https://github.com/ThoughtWorksInc/tryt.scala)",
+              "Monad transformers for exception handling",
+              ""
+            ],
+            [
+              "10",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**ZeroCost.scala**](https://github.com/ThoughtWorksInc/ZeroCost.scala)",
+              "Zero-cost Abstractions in Scala",
+              ""
+            ],
+            [
+              "10",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Constructor.scala**](https://github.com/ThoughtWorksInc/Constructor.scala)",
+              "Mixin classes and traits dynamically",
+              ""
+            ],
+            [
+              "9",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**sbt-ammonite-classpa…**](https://github.com/ThoughtWorksInc/sbt-ammonite-classpath)",
+              "Export the classpath for Ammonite and Jupyter Scala",
+              ""
+            ],
+            [
+              "9",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Binding.scala-websit…**](https://github.com/ThoughtWorksInc/Binding.scala-website)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**DesignPattern.scala**](https://github.com/ThoughtWorksInc/DesignPattern.scala)",
+              "Functional Programming Design Patterns",
+              ""
+            ],
+            [
+              "8",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Q.scala**](https://github.com/ThoughtWorksInc/Q.scala)",
+              "Convert any value to code",
+              ""
+            ],
+            [
+              "5",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Binding.scala-play-t…**](https://github.com/ThoughtWorksInc/Binding.scala-play-template)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**akka-http-rpc**](https://github.com/ThoughtWorksInc/akka-http-rpc)",
+              "Turn akka-http to a RPC server",
+              ""
+            ],
+            [
+              "4",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**TypeOf.scala**](https://github.com/ThoughtWorksInc/TypeOf.scala)",
+              "Create types from expressions",
+              ""
+            ],
+            [
+              "3",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**Binding.scala-activa…**](https://github.com/ThoughtWorksInc/Binding.scala-activator-template)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ThoughtWorksInc](https://github.com/ThoughtWorksInc)/[**streaming-data-pipel…**](https://github.com/ThoughtWorksInc/streaming-data-pipeline)",
+              "Streaming pipeline repo for data engineering training program",
               ""
             ]
           ]
