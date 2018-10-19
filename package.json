@@ -55,7 +55,8 @@
           "[C](undefined)",
           "[Haskell](#haskell)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -584,6 +585,117 @@
               "3",
               "[@diegoserranoa](https://github.com/diegoserranoa)/[**DSFullscreenView**](https://github.com/diegoserranoa/DSFullscreenView)",
               "Animation from a tableViewCell to a fullscreen view.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "46",
+              "[@elkuku](https://github.com/elkuku)/[**EasyCreator**](https://github.com/elkuku/EasyCreator)",
+              "EasyCreator  helps creating extensions for the Joomla! CMS",
+              "[:arrow_upper_right:](http://extensions.joomla.org/extensions/miscellaneous/development/5908)"
+            ],
+            [
+              "31",
+              "[@larin](https://github.com/larin)/[**librusec**](https://github.com/larin/librusec)",
+              "librusec module of the library",
+              "[:arrow_upper_right:](http://lib.rus.ec)"
+            ],
+            [
+              "8",
+              "[@elkuku](https://github.com/elkuku)/[**Pizzza**](https://github.com/elkuku/Pizzza)",
+              "Connect Joomla! with an Android App",
+              ""
+            ],
+            [
+              "7",
+              "[@jameswilson](https://github.com/jameswilson)/[**filename_translitera…**](https://github.com/jameswilson/filename_transliteration)",
+              "Drupal 8 filename transliteration",
+              ""
+            ],
+            [
+              "3",
+              "[@frivasto](https://github.com/frivasto)/[**Igual-o-Diferente**](https://github.com/frivasto/Igual-o-Diferente)",
+              "Es un juego con propósito (GWAP) que ayuda a etiquetar contenido de audio con fines educativos",
+              ""
+            ],
+            [
+              "3",
+              "[@Vegeta](https://github.com/Vegeta)/[**fluxer**](https://github.com/Vegeta/fluxer)",
+              "A simple, yet flexible finite state machine for PHP.",
+              ""
+            ],
+            [
+              "3",
+              "[@tavo1987](https://github.com/tavo1987)/[**ec-validador-cedula-…**](https://github.com/tavo1987/ec-validador-cedula-ruc)",
+              "Paquete para validar cedula o ruc de Ecuador",
+              ""
+            ],
+            [
+              "3",
+              "[@elkuku](https://github.com/elkuku)/[**KISSKontent**](https://github.com/elkuku/KISSKontent)",
+              "A new way to add content to the Joomla! CMS",
+              ""
+            ],
+            [
+              "3",
+              "[@IvonneBurgos](https://github.com/IvonneBurgos)/[**renderedcom**](https://github.com/IvonneBurgos/renderedcom)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@svyandun](https://github.com/svyandun)/[**refactoring**](https://github.com/svyandun/refactoring)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@elkuku](https://github.com/elkuku)/[**xml2sql**](https://github.com/elkuku/xml2sql)",
+              "Converts XML files to SQL in different formats",
+              ""
+            ],
+            [
+              "2",
+              "[@elkuku](https://github.com/elkuku)/[**ConsoleTable**](https://github.com/elkuku/ConsoleTable)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@elkuku](https://github.com/elkuku)/[**JeJoo**](https://github.com/elkuku/JeJoo)",
+              "JEJoo => Just Enough Joomla!",
+              ""
+            ],
+            [
+              "2",
+              "[@bmtt7](https://github.com/bmtt7)/[**php-learning**](https://github.com/bmtt7/php-learning)",
+              ":books: Repositório dedicado para armazenar estudos e exercícios do livro do Rasmus Lerdorf - Programming PHP",
+              ""
+            ],
+            [
+              "2",
+              "[@elkuku](https://github.com/elkuku)/[**g11n**](https://github.com/elkuku/g11n)",
+              "G11n is a custom language handler.",
+              ""
+            ],
+            [
+              "2",
+              "[@tavo1987](https://github.com/tavo1987)/[**ec-laravel-validator**](https://github.com/tavo1987/ec-laravel-validator)",
+              "Pequeño paquete  de validaciones personalizadas para Laravel",
               ""
             ]
           ]
