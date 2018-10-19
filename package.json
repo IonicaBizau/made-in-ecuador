@@ -39,5 +39,194 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-ecuador/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "36",
+              "[@eriknyk](https://github.com/eriknyk)/[**redux-universal-app**](https://github.com/eriknyk/redux-universal-app)",
+              "",
+              ""
+            ],
+            [
+              "29",
+              "[@juanmnl](https://github.com/juanmnl)/[**react-starter**](https://github.com/juanmnl/react-starter)",
+              ":rocket: Yet another React Starter DevKit :moon:",
+              ""
+            ],
+            [
+              "18",
+              "[@adrianeguez](https://github.com/adrianeguez)/[**Tec_Web_Js_2016_B**](https://github.com/adrianeguez/Tec_Web_Js_2016_B)",
+              "Curso de Tecnologias Web con Javascript",
+              ""
+            ],
+            [
+              "12",
+              "[@adrianeguez](https://github.com/adrianeguez)/[**App-Web-2017-A**](https://github.com/adrianeguez/App-Web-2017-A)",
+              "Repositorio de la Materia de Aplicaciones Web 2017 A",
+              ""
+            ],
+            [
+              "7",
+              "[@miwillhite](https://github.com/miwillhite)/[**editable-set**](https://github.com/miwillhite/editable-set)",
+              "A jQuery edit-in-place plugin for editing entire sets of data at once.",
+              "[:arrow_upper_right:](http://editable-set.heroku.com)"
+            ],
+            [
+              "7",
+              "[@warpr](https://github.com/warpr)/[**turtle-to-jsonld**](https://github.com/warpr/turtle-to-jsonld)",
+              "Turtle to JSON-LD conversion.",
+              ""
+            ],
+            [
+              "7",
+              "[@eraad](https://github.com/eraad)/[**clementine**](https://github.com/eraad/clementine)",
+              "E-commerce platform powered by Clojure.",
+              ""
+            ],
+            [
+              "5",
+              "[@adrianeguez](https://github.com/adrianeguez)/[**TWJ-2017-A**](https://github.com/adrianeguez/TWJ-2017-A)",
+              "Tecnologias Web con JavaScript 2017 A",
+              ""
+            ],
+            [
+              "5",
+              "[@mrluc](https://github.com/mrluc)/[**owl-deepcopy**](https://github.com/mrluc/owl-deepcopy)",
+              "Oran Looney's definitive deepCopy.js packaged as a node module.",
+              ""
+            ],
+            [
+              "5",
+              "[@franzsilva](https://github.com/franzsilva)/[**FusePokeDex**](https://github.com/franzsilva/FusePokeDex)",
+              "Pokedex Implemented using FuseTools",
+              ""
+            ],
+            [
+              "4",
+              "[@markoscalderon](https://github.com/markoscalderon)/[**bbb-nodejs-client**](https://github.com/markoscalderon/bbb-nodejs-client)",
+              "BigBlueButton Node.js Client",
+              ""
+            ],
+            [
+              "3",
+              "[@GAumala](https://github.com/GAumala)/[**gulp-prettier-plugin**](https://github.com/GAumala/gulp-prettier-plugin)",
+              "gulp plugin for prettier",
+              ""
+            ],
+            [
+              "3",
+              "[@gugat](https://github.com/gugat)/[**jssip-phone**](https://github.com/gugat/jssip-phone)",
+              "Basic phone with Jssip",
+              ""
+            ],
+            [
+              "3",
+              "[@warpr](https://github.com/warpr)/[**databank-couchdb**](https://github.com/warpr/databank-couchdb)",
+              "This is a couchdb driver for Databank.",
+              ""
+            ],
+            [
+              "3",
+              "[@eriknyk](https://github.com/eriknyk)/[**jsmin-php**](https://github.com/eriknyk/jsmin-php)",
+              "PHP port of Douglas Crockford's JSMin JavaScript minifier. (Maintained version)",
+              ""
+            ],
+            [
+              "3",
+              "[@juanmnl](https://github.com/juanmnl)/[**color-game**](https://github.com/juanmnl/color-game)",
+              ":fries: RGB color challenge. Do you know RGB? :fries:",
+              "[:arrow_upper_right:](http://sticky-authority.surge.sh)"
+            ],
+            [
+              "2",
+              "[@eriknyk](https://github.com/eriknyk)/[**fixed-datatable-infi…**](https://github.com/eriknyk/fixed-datatable-infinite-scroll)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@miwillhite](https://github.com/miwillhite)/[**editable-set-sample**](https://github.com/miwillhite/editable-set-sample)",
+              "A sample app to demonstrate editableSet and all its glory.",
+              "[:arrow_upper_right:](http://editable-set.heroku.com)"
+            ],
+            [
+              "2",
+              "[@devrchancay](https://github.com/devrchancay)/[**IntroduccionNodejs**](https://github.com/devrchancay/IntroduccionNodejs)",
+              "👨‍🏫 Introducción a NodeJS - Noders Ecuador",
+              ""
+            ],
+            [
+              "2",
+              "[@warpr](https://github.com/warpr)/[**jslich**](https://github.com/warpr/jslich)",
+              "JSlich (JavaScript license checker) will be a tool you can use to check whether all the javascript used on on a webpage is properly licensed using free software licenses, in a machine readable way.",
+              ""
+            ],
+            [
+              "2",
+              "[@patovala](https://github.com/patovala)/[**kpos**](https://github.com/patovala/kpos)",
+              "Punto de Venta (POS) simple usando MEAN",
+              ""
+            ],
+            [
+              "2",
+              "[@GAumala](https://github.com/GAumala)/[**Facturacion**](https://github.com/GAumala/Facturacion)",
+              "Sistema de facturación web sencillo escrito con React, Node.js y SQLite 3.",
+              ""
+            ],
+            [
+              "2",
+              "[@marceloandrader](https://github.com/marceloandrader)/[**marceloandrader.gith…**](https://github.com/marceloandrader/marceloandrader.github.com)",
+              "marcelo andrade website",
+              "[:arrow_upper_right:](marceloandrader.github.com)"
+            ],
+            [
+              "2",
+              "[@juanmnl](https://github.com/juanmnl)/[**juanmnl.com**](https://github.com/juanmnl/juanmnl.com)",
+              "Personal Website/portfolio",
+              "[:arrow_upper_right:](http://www.juanmnlcornejo.com)"
+            ],
+            [
+              "2",
+              "[@markoscalderon](https://github.com/markoscalderon)/[**hackgye**](https://github.com/markoscalderon/hackgye)",
+              "guayaquil hackathon site",
+              ""
+            ],
+            [
+              "2",
+              "[@juanmnl](https://github.com/juanmnl)/[**learnJSX**](https://github.com/juanmnl/learnJSX)",
+              ":robot::speech_balloon: babel.js translator",
+              "[:arrow_upper_right:](http://traductor-babel.surge.sh/)"
+            ],
+            [
+              "2",
+              "[@fizzvr](https://github.com/fizzvr)/[**vr-web**](https://github.com/fizzvr/vr-web)",
+              "A nodejs project  • FizzVR",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
