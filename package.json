@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -419,6 +420,33 @@
             [
               "2",
               "[@ragutierrez](https://github.com/ragutierrez)/[**pythonEcuadorWeb**](https://github.com/ragutierrez/pythonEcuadorWeb)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@CursoRUCE](https://github.com/CursoRUCE)/[**R-Basic**](https://github.com/CursoRUCE/R-Basic)",
+              "Curso de R Nivel Básico",
+              ""
+            ],
+            [
+              "2",
+              "[@Alejoss](https://github.com/Alejoss)/[**redlibros**](https://github.com/Alejoss/redlibros)",
               "",
               ""
             ]
