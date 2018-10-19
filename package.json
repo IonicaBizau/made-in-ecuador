@@ -56,7 +56,8 @@
           "[Haskell](#haskell)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -696,6 +697,93 @@
               "2",
               "[@tavo1987](https://github.com/tavo1987)/[**ec-laravel-validator**](https://github.com/tavo1987/ec-laravel-validator)",
               "Pequeño paquete  de validaciones personalizadas para Laravel",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@VAUTPL](https://github.com/VAUTPL)/[**Number_Detection**](https://github.com/VAUTPL/Number_Detection)",
+              "Number Detection with Python and OpenCV",
+              ""
+            ],
+            [
+              "15",
+              "[@VAUTPL](https://github.com/VAUTPL)/[**Detecting-lines**](https://github.com/VAUTPL/Detecting-lines)",
+              " Detection of lines using opencv and python",
+              ""
+            ],
+            [
+              "6",
+              "[@Wolfant](https://github.com/Wolfant)/[**ansible-jbossCli**](https://github.com/Wolfant/ansible-jbossCli)",
+              "Jboss cli module for ansible",
+              ""
+            ],
+            [
+              "5",
+              "[@qihqi](https://github.com/qihqi)/[**bottlerest**](https://github.com/qihqi/bottlerest)",
+              "Rest API Framework for Bottle",
+              ""
+            ],
+            [
+              "4",
+              "[@VAUTPL](https://github.com/VAUTPL)/[**NUMBERS_DETECTION_1**](https://github.com/VAUTPL/NUMBERS_DETECTION_1)",
+              "Program that detects an electric meter numbers with Python and OpenCV",
+              ""
+            ],
+            [
+              "4",
+              "[@qihqi](https://github.com/qihqi)/[**henryFACT**](https://github.com/qihqi/henryFACT)",
+              "Programa de facturacion basado en Django con clientes de puntos de venta y cajeros escrito en Java",
+              ""
+            ],
+            [
+              "4",
+              "[@stsewd](https://github.com/stsewd)/[**fbcm**](https://github.com/stsewd/fbcm)",
+              "Football Championship Manager using flask and PonyORM",
+              ""
+            ],
+            [
+              "3",
+              "[@stsewd](https://github.com/stsewd)/[**bookpy**](https://github.com/stsewd/bookpy)",
+              "Renames your e-books for better organization.",
+              ""
+            ],
+            [
+              "3",
+              "[@VAUTPL](https://github.com/VAUTPL)/[**Detection_of_cars_an…**](https://github.com/VAUTPL/Detection_of_cars_and_lines)",
+              "Detection of cars and lines with Python and OpenCV",
+              ""
+            ],
+            [
+              "2",
+              "[@VAUTPL](https://github.com/VAUTPL)/[**Pedestrian_Detection…**](https://github.com/VAUTPL/Pedestrian_Detection_2)",
+              "Program that detects pedestrians and accounts, using OpenCV in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@stsewd](https://github.com/stsewd)/[**ucuenca.py**](https://github.com/stsewd/ucuenca.py)",
+              "Librería de Python para la API de la Universidad de Cuenca",
+              ""
+            ],
+            [
+              "2",
+              "[@stsewd](https://github.com/stsewd)/[**deoplete-plugin**](https://github.com/stsewd/deoplete-plugin)",
+              "Deoplete source for plugins",
               ""
             ]
           ]
