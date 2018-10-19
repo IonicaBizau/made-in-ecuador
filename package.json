@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -470,6 +471,63 @@
               "5",
               "[@mdleiton](https://github.com/mdleiton)/[**ArqClienteServidorWe…**](https://github.com/mdleiton/ArqClienteServidorWeb)",
               "Este programa permite monitorear los puertos USB de nuestra computadora, detectar la conexión de nuevos dispositivos USB a traves de un proceso(daemon).  Un servidor web solicitará dicha información a este proceso para responder a las solicitudes realizadas por un cliente (escrito en python).",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@sebashack](https://github.com/sebashack)/[**SCalendar**](https://github.com/sebashack/SCalendar)",
+              "Deprecated",
+              ""
+            ],
+            [
+              "4",
+              "[@sebashack](https://github.com/sebashack)/[**servantRestfulAPI**](https://github.com/sebashack/servantRestfulAPI)",
+              "This is an example of a RestfulAPI made with Servant Haskel and which integrates things like Persistent MySQL, ElasticSearch, JWT, etc... ",
+              ""
+            ],
+            [
+              "3",
+              "[@juanpaucar](https://github.com/juanpaucar)/[**vcf**](https://github.com/juanpaucar/vcf)",
+              "Haskell library to handle VCF (Variant Call Format) files",
+              ""
+            ],
+            [
+              "3",
+              "[@alx741](https://github.com/alx741)/[**graphite**](https://github.com/alx741/graphite)",
+              "Haskell graphs and networks library",
+              ""
+            ],
+            [
+              "3",
+              "[@sebashack](https://github.com/sebashack)/[**cloud-haskell-chat**](https://github.com/sebashack/cloud-haskell-chat)",
+              "Chat server and client with Cloud Haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@sebashack](https://github.com/sebashack)/[**haskellHTTP**](https://github.com/sebashack/haskellHTTP)",
+              "An example of using a simple http client in haskell along with AESON",
+              ""
+            ],
+            [
+              "2",
+              "[@sebashack](https://github.com/sebashack)/[**JuicyPixelsAndPersis…**](https://github.com/sebashack/JuicyPixelsAndPersistent)",
+              "And example of using The Servant API framework along with JuicyPixels and Persistent",
               ""
             ]
           ]
