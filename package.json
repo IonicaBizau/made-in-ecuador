@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -222,6 +223,123 @@
               "2",
               "[@fizzvr](https://github.com/fizzvr)/[**vr-web**](https://github.com/fizzvr/vr-web)",
               "A nodejs project  • FizzVR",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "112",
+              "[@asantibanez](https://github.com/asantibanez)/[**Patio**](https://github.com/asantibanez/Patio)",
+              "A minimalistic Android view widget for selecting multiple images",
+              ""
+            ],
+            [
+              "57",
+              "[@asantibanez](https://github.com/asantibanez)/[**Ranger**](https://github.com/asantibanez/Ranger)",
+              "Android horizontally scrolled DatePicker",
+              ""
+            ],
+            [
+              "34",
+              "[@asantibanez](https://github.com/asantibanez)/[**Quota**](https://github.com/asantibanez/Quota)",
+              "Quota widget for Android",
+              ""
+            ],
+            [
+              "23",
+              "[@ivansanchezvera](https://github.com/ivansanchezvera)/[**TrajectoryClustering**](https://github.com/ivansanchezvera/TrajectoryClustering)",
+              "Several Trajectory and time series clustering Algorithms. Project features a hashing technique to approximate clustering in linear time, using Distance base hashing for DTW. Includes a variation of TRACLUS algorithm for my research project",
+              ""
+            ],
+            [
+              "13",
+              "[@asantibanez](https://github.com/asantibanez)/[**OAuthWebView**](https://github.com/asantibanez/OAuthWebView)",
+              "WebViews for OAuth Authentication",
+              ""
+            ],
+            [
+              "8",
+              "[@sauljabin](https://github.com/sauljabin)/[**idempierewsc-java**](https://github.com/sauljabin/idempierewsc-java)",
+              "Web Service Client Java for iDempiere ERP",
+              ""
+            ],
+            [
+              "5",
+              "[@asantibanez](https://github.com/asantibanez)/[**Miveo**](https://github.com/asantibanez/Miveo)",
+              "Vimeo SUPER AWESOME Android App",
+              ""
+            ],
+            [
+              "5",
+              "[@sauljabin](https://github.com/sauljabin)/[**idempiere-plugin-tem…**](https://github.com/sauljabin/idempiere-plugin-template)",
+              "iDempiere OSGI Plugin Template",
+              ""
+            ],
+            [
+              "4",
+              "[@miguetv17](https://github.com/miguetv17)/[**SyncAdapterExample**](https://github.com/miguetv17/SyncAdapterExample)",
+              "Sync adapter example using DBFlow as ORM and its content provider generation tool",
+              ""
+            ],
+            [
+              "3",
+              "[@rowanseymour](https://github.com/rowanseymour)/[**kwibuka**](https://github.com/rowanseymour/kwibuka)",
+              "Simple library (and webapp) for converting phone numbers to mnemonic word sequences",
+              ""
+            ],
+            [
+              "3",
+              "[@rowanseymour](https://github.com/rowanseymour)/[**inshinga**](https://github.com/rowanseymour/inshinga)",
+              "Experiments in Kinyarwanda verb parsing",
+              ""
+            ],
+            [
+              "3",
+              "[@asantibanez](https://github.com/asantibanez)/[**udacity-spotify-stre…**](https://github.com/asantibanez/udacity-spotify-streamer-stage-2)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rowanseymour](https://github.com/rowanseymour)/[**kumva-sms**](https://github.com/rowanseymour/kumva-sms)",
+              "SMS proxy for the Kumva dictionary sites",
+              ""
+            ],
+            [
+              "2",
+              "[@rowanseymour](https://github.com/rowanseymour)/[**imibare-web**](https://github.com/rowanseymour/imibare-web)",
+              "Web interface to imibare number renderer",
+              ""
+            ],
+            [
+              "2",
+              "[@ivansanchezvera](https://github.com/ivansanchezvera)/[**LunchAmigo**](https://github.com/ivansanchezvera/LunchAmigo)",
+              "Mobile App in Android for mingle",
+              ""
+            ],
+            [
+              "2",
+              "[@asantibanez](https://github.com/asantibanez)/[**udacity-build-it-big…**](https://github.com/asantibanez/udacity-build-it-bigger)",
+              "Udacity Build It Bigger Project",
+              ""
+            ],
+            [
+              "2",
+              "[@rowanseymour](https://github.com/rowanseymour)/[**kubara**](https://github.com/rowanseymour/kubara)",
+              "Library for rendering numbers as text in their spoken forms",
               ""
             ]
           ]
